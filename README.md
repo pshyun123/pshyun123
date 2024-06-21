@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=&height=80)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+hyunsu's+GitHub!👋)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+SoHyun's+GitHub!👋)
     <div style="text-align: left;"> 
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙂 Introduce </h2>  
      <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
