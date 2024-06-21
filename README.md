@@ -18,18 +18,15 @@
        <p><strong>Backend</strong></p>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-      
-      <p><strong>Test</strong></p>
-<img src="https://img.shields.io/badge/Postman-232F3E?style=for-the-badge&logo=Postman&logoColor=white">
-<img src="https://img.shields.io/badge/Swagger-232F3E?style=for-the-badge&logo=Swagger&logoColor=white">
-      
-      <p><strong>Server</strong></p>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-      
-      <p><strong>Collaborations</strong></p>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+       <p><strong>Frontend</strong></p>
+        <img src="https://img.shields.io/badge/Postman-232F3E?style=for-the-badge&logo=Postman&logoColor=white">
+        <img src="https://img.shields.io/badge/Swagger-232F3E?style=for-the-badge&logo=Swagger&logoColor=white">  
+       <p><strong>Server</strong></p>
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+       <p><strong>Collaborations</strong></p>
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
      </div>
     </div>
