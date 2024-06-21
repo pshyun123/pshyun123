@@ -38,18 +38,3 @@
      </div>
     </div>
     <div>
-   
-
-
- 
-
-
-
-
-
-
- 
-# :Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=tistory&link=https://cut-eyebrow.tistory.com/)](https://cut-eyebrow.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lee940706@gmail.com)](mailto:lee940706@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ljs2894@naver.com)](mailto:ljs2894@naver.com)
