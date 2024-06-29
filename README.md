@@ -4,7 +4,7 @@
     </div>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshyun123&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=grey&icon_color=58A6FF&text_color=black&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshyun123&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ccc&icon_color=58A6FF&text_color=black&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
     <div style="text-align: left;">
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
